@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Oleksandr 53704",
+  "short_name": "Oleksandr 53704",
+  "version": "pl.edu.zut.wi.bo53704",
+  "description": "Weather App",
+  "author": "Oleksandr Bochkin",
+  "icons": [],
+  "start_url": "weather.html"
+}

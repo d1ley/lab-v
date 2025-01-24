@@ -1,0 +1,14 @@
+{
+  "main": "cdv-electron-main.js",
+  "name": "pl.edu.zut.wi.bo53704",
+  "displayName": "Oleksandr 53704",
+  "version": "1.0.0",
+  "description": "Weather App",
+  "homepage": "https://www.wi.zut.edu.pl",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Oleksandr Bochkin",
+    "email": "bo53704@zut.edu.pl"
+  },
+  "dependencies": {}
+}

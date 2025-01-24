@@ -1,0 +1,16 @@
+directories:
+  output: C:\Users\arowp\Desktop\ai1-cordova\c00000\platforms\electron\build
+  buildResources: C:\Users\arowp\Desktop\ai1-cordova\c00000\platforms\electron\build-res
+  app: C:\Users\arowp\Desktop\ai1-cordova\c00000\platforms\electron\www
+appId: pl.edu.zut.wi.bo53704
+productName: Oleksandr 53704
+electronVersion: 29.4.6
+electronDownload:
+  version: 29.4.6
+win:
+  target:
+    - target: zip
+      arch:
+        - x64
+  icon: installer.png
+files: []
